@@ -1,6 +1,6 @@
-# @Email:  contact@pythonandvba.com
-# @Website:  https://pythonandvba.com
-# @YouTube:  https://youtube.com/c/CodingIsFun
+# @Email:  fickyalkarim1987@gmail.com
+# @Website:  gaman.id
+# @YouTube:  fickya
 # @Project:  Sales Dashboard w/ Streamlit
 
 
